@@ -6,7 +6,7 @@
 
 
 
-![Gambar](labpy04/image/ss1_mengakseslist.png)
+![Gambar](image/ss1_mengakseslist.png)
 
 
 
@@ -24,14 +24,14 @@
 
 
 
-![Gambar2](/labpy04/image/ss2_output.png)
+![Gambar2](image/ss2_output.png)
 
 
 
 ## mengubah list
 
 
-![Gambar3](./labpy04/image/ss3_mengubahlist.png)
+![Gambar3](image/ss3_mengubahlist.png)
 
 
 ### mengubah list elemen 4 dengan nilai lain
@@ -44,14 +44,14 @@
 
 
 
-![Gambar4](labpy04/image/ss4_output.png)
+![Gambar4](image/ss4_output.png)
 
 
 ### menambah elemen list
 
 
 
-![Gambar5](labpy04/image/ss5_menambahelemen.png)
+![Gambar5](image/ss5_menambahelemen.png)
 
 
 
@@ -73,12 +73,12 @@
 
 
 
-![Gambar6](labpy04/image/ss6_output.png)
+![Gambar6](image/ss6_output.png)
 
 # tugas praktikum 4
 
 
-![Gamabar7](labpy04/image/ss7.png)
+![Gamabar7](image/ss7.png)
 
 
 ### pejelasan
@@ -144,4 +144,8 @@ print(73*"=")
 ### Output
 
 
-![Gambar 8](labpy04/image/ss8.png)
+![Gambar 8](image/ss8.png)
+
+
+
+

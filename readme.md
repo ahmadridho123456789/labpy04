@@ -23,13 +23,15 @@
 
 
 
-![Gambar2](labpy04/image/ss2_output.png)
+
+![Gambar2](/labpy04/image/ss2_output.png)
+
 
 
 ## mengubah list
 
 
-![Gambar3](labpy04/image/ss3_mengubahlist.png)
+![Gambar3](./labpy04/image/ss3_mengubahlist.png)
 
 
 ### mengubah list elemen 4 dengan nilai lain
@@ -42,7 +44,7 @@
 
 
 
-![Gambar4](labpy04//image/ss4_output.png)
+![Gambar4](labpy04/image/ss4_output.png)
 
 
 ### menambah elemen list
@@ -77,6 +79,7 @@
 
 
 ![Gamabar7](labpy04/image/ss7.png)
+
 
 ### pejelasan
 1. (Deklarasi list) ketika menginput data, maka data akan dimasukan ke dalam list ini
@@ -142,4 +145,3 @@ print(73*"=")
 
 
 ![Gambar 8](labpy04/image/ss8.png)
-

@@ -146,6 +146,10 @@ print(73*"=")
 
 ![Gambar 8](image/ss8.png)
 
+## berikut flowchart nya
+
+
+![gambar9](image/flow1.png)
 
 
 
